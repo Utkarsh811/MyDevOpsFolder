@@ -1,0 +1,3 @@
+variable "rg-map" {
+  
+}
